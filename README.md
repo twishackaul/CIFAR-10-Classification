@@ -15,6 +15,9 @@
 9. ship										
 10. truck
 
+![cifar 10](https://github.com/twishackaul/CIFAR-10-Classification/assets/107127632/78f1c372-e3c4-454d-a508-67ba9c50f834)
+
+
 ## How to use model:
 
 - Importing libraries: Import necessary libraries such as:-
