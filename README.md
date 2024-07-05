@@ -15,14 +15,17 @@
 9. ship										
 10. truck
 
-## Python code illustrating usage:
+## How to use model:
 
-- Importing libraries:
+- Importing libraries: Import necessary libraries such as:-
+  * Numpy
+  * Pandas
+  * Matplotlib
+  * Seaborn
+  * Tensorflow
+  * Keras
+  * Warnings
+  * Models, datasets, layers
 
-![Screenshot 2024-07-05 222950](https://github.com/twishackaul/CIFAR-10-Classification/assets/107127632/ab1ea7e8-1902-4a20-b02c-653a299d0d77)
-![Screenshot 2024-07-05 223006](https://github.com/twishackaul/CIFAR-10-Classification/assets/107127632/4f26218d-bf0f-4b82-9dcc-3cd17f8ade7e)
+- Loading Data: Then load the data using the already present cifar10 dataset in tensorflow. Use the syntax => datasets.cifar10.load_data() 
 
-
-- Loading Data
-
-![Screenshot 2024-07-05 223025](https://github.com/twishackaul/CIFAR-10-Classification/assets/107127632/f1a2a901-cda5-4ad0-bf9f-f61da3a35bf9)
