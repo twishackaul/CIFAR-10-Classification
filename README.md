@@ -27,5 +27,11 @@
   * Warnings
   * Models, datasets, layers
 
-- Loading Data: Then load the data using the already present cifar10 dataset in tensorflow. Use the syntax => datasets.cifar10.load_data() 
+- Loading Data: Then load the data using the already present cifar10 dataset in tensorflow. Use the syntax => datasets.cifar10.load_data()
+
+- Training the model: You can train the model using either traditional Artificial Neural Network or using Convolutional Neural Network. Add the required loss and activation functions, performance metrics along with the optimizers and you can also apply any regularization technique such as Drop regularization if required.
+
+- Testing model: Test the model using unseen data and calculate the testing accuracy.
+
+- Validating model: Validate or evaluate you model using a Confusion Matrix or Heatmap and calculate the accuracy, precision, recall, F1-Score, etc, according to your necessity. 
 
